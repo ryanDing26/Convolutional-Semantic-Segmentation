@@ -11,6 +11,7 @@ ignore_label=255
 num_workers=16
 epochs=30
 patience=3
+# Other related augmentations to the dataset and model parameters and hyperparameters
 USE_COSINE_ANNEALING=False
 USE_DATA_AUGMENTATION=False
 USE_WEIGHTED_LOSS=False
